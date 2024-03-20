@@ -1,5 +1,5 @@
 # ConvertSparsechunk2Img.sh
-- This script is designed to assist in converting Android system.img files from sparsechunk format to raw format, removing certain headers and footers specific to Moto devices in the process.
+- This script is designed to assist in converting Android system.img files from sparsechunk format to raw img format, removing certain headers and footers specific to Moto devices in the process.
 - CleanMotoImg will simply remove the Motorola headers from a system.img.raw file, if you have already performed sparsechunk conversion
 
 ## Prerequisites
