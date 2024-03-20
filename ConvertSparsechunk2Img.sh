@@ -1,4 +1,5 @@
 #!/bin/bash
+# Sparsechunk2Img / Moto Header and Footer Remover by FrogMaster- @ xda-developers
 # Perform Sparsechunk Conversion 
 echo "Calling simg2img to perform sparsechunk conversion to RAW IMG file"
 simg2img system.img_sparsechunk.* system.img.raw
