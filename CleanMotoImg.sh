@@ -1,5 +1,5 @@
 #!/bin/bash
-# Moto Footer Remove by FrogMaster- @ xda-developers
+# Moto Header and Footer Remover by FrogMaster- @ xda-developers
 # Use DDRescue to remove the Moto header by skipping the first 131072 bytes
 echo Removing the Moto Header from the system.img.raw skipping the first 131072 bytes
 ddrescue -b 512k -i 131072 -o 0 system.img.raw system.img
