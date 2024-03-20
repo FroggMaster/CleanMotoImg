@@ -10,7 +10,7 @@
 ## Usage
 1. **Clone the Repository:** Clone this repository to your local machine or download the script file directly.
     ```bash
-    git clone https://github.com/example/repository.git
+    git clone https://github.com/FroggMaster/CleanMotoImg.git
     ```
 
 2. **Navigate to the Directory:** Change your current directory to where the script is located.
@@ -20,12 +20,12 @@
 
 3. **Provide Necessary Permissions:** If required, provide execution permission to the script.
     ```bash
-    chmod +x convert_system_image.sh
+    chmod +x ConvertSparsechunk2Img.sh
     ```
 
 4. **Execute the Script:** Run the script with the following command:
     ```bash
-    ./convert_system_image.sh
+    ./ConvertSparsechunk2Img.sh
     ```
 
 ## Functionality
